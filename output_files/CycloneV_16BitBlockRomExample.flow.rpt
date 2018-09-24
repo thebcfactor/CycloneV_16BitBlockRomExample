@@ -1,5 +1,5 @@
 Flow report for CycloneV_16BitBlockRomExample
-Sun Sep 23 14:42:44 2018
+Mon Sep 24 00:54:21 2018
 Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
 
 
@@ -40,7 +40,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------------------------------------------------+
 ; Flow Summary                                                                  ;
 +---------------------------------+---------------------------------------------+
-; Flow Status                     ; Successful - Sun Sep 23 14:42:44 2018       ;
+; Flow Status                     ; Successful - Mon Sep 24 00:54:21 2018       ;
 ; Quartus Prime Version           ; 18.0.0 Build 614 04/24/2018 SJ Lite Edition ;
 ; Revision Name                   ; CycloneV_16BitBlockRomExample               ;
 ; Top-level Entity Name           ; CycloneV_16BitBlockRomExample               ;
@@ -67,7 +67,7 @@ refer to the applicable agreement for further details.
 +-------------------+-------------------------------+
 ; Option            ; Setting                       ;
 +-------------------+-------------------------------+
-; Start date & time ; 09/23/2018 14:42:08           ;
+; Start date & time ; 09/24/2018 00:53:44           ;
 ; Main task         ; Compilation                   ;
 ; Revision Name     ; CycloneV_16BitBlockRomExample ;
 +-------------------+-------------------------------+
@@ -78,7 +78,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------+----------------------------------------+---------------+-------------+----------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id     ;
 +-------------------------------------+----------------------------------------+---------------+-------------+----------------+
-; COMPILER_SIGNATURE_ID               ; 115366139206742.153772812829843        ; --            ; --          ; --             ;
+; COMPILER_SIGNATURE_ID               ; 115366139206742.153776482420187        ; --            ; --          ; --             ;
 ; EDA_OUTPUT_DATA_FORMAT              ; Vhdl                                   ; --            ; --          ; eda_simulation ;
 ; EDA_SIMULATION_TOOL                 ; ModelSim-Altera (VHDL)                 ; <None>        ; --          ; --             ;
 ; EDA_TIME_SCALE                      ; 1 ps                                   ; --            ; --          ; eda_simulation ;
@@ -103,10 +103,10 @@ refer to the applicable agreement for further details.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:09     ; 1.0                     ; 1132 MB             ; 00:00:25                           ;
-; Fitter               ; 00:00:18     ; 1.1                     ; 3212 MB             ; 00:00:53                           ;
-; Assembler            ; 00:00:06     ; 1.0                     ; 962 MB              ; 00:00:06                           ;
-; Total                ; 00:00:33     ; --                      ; --                  ; 00:01:24                           ;
+; Analysis & Synthesis ; 00:00:10     ; 1.0                     ; 1136 MB             ; 00:00:27                           ;
+; Fitter               ; 00:00:20     ; 1.1                     ; 3245 MB             ; 00:01:06                           ;
+; Assembler            ; 00:00:06     ; 1.0                     ; 965 MB              ; 00:00:06                           ;
+; Total                ; 00:00:36     ; --                      ; --                  ; 00:01:39                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 

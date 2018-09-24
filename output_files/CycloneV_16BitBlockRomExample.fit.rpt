@@ -1,5 +1,5 @@
 Fitter report for CycloneV_16BitBlockRomExample
-Sun Sep 23 14:42:36 2018
+Mon Sep 24 00:54:14 2018
 Quartus Prime Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
 
 
@@ -64,7 +64,7 @@ refer to the applicable agreement for further details.
 +-------------------------------------------------------------------------------+
 ; Fitter Summary                                                                ;
 +---------------------------------+---------------------------------------------+
-; Fitter Status                   ; Successful - Sun Sep 23 14:42:36 2018       ;
+; Fitter Status                   ; Successful - Mon Sep 24 00:54:14 2018       ;
 ; Quartus Prime Version           ; 18.0.0 Build 614 04/24/2018 SJ Lite Edition ;
 ; Revision Name                   ; CycloneV_16BitBlockRomExample               ;
 ; Top-level Entity Name           ; CycloneV_16BitBlockRomExample               ;
@@ -155,17 +155,17 @@ refer to the applicable agreement for further details.
 ; Number detected on machine ; 16          ;
 ; Maximum allowed            ; 16          ;
 ;                            ;             ;
-; Average used               ; 1.08        ;
+; Average used               ; 1.10        ;
 ; Maximum used               ; 16          ;
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processor 2            ;   0.7%      ;
-;     Processor 3            ;   0.7%      ;
+;     Processor 2            ;   0.8%      ;
+;     Processor 3            ;   0.8%      ;
 ;     Processor 4            ;   0.7%      ;
-;     Processor 5            ;   0.6%      ;
-;     Processor 6            ;   0.6%      ;
-;     Processors 7-16        ;   0.5%      ;
+;     Processor 5            ;   0.7%      ;
+;     Processor 6            ;   0.7%      ;
+;     Processors 7-16        ;   0.6%      ;
 +----------------------------+-------------+
 
 
@@ -830,7 +830,7 @@ refer to the applicable agreement for further details.
 +--------------+
 ; Pin-Out File ;
 +--------------+
-The pin-out file can be found in /media/work/Projects/Altera/CycloneV_16BitBlockRomExample/output_files/CycloneV_16BitBlockRomExample.pin.
+The pin-out file can be found in /media/work/GitHub/CycloneV_16BitBlockRomExample/output_files/CycloneV_16BitBlockRomExample.pin.
 
 
 +------------------------------------------------------------------------------------------+
@@ -2501,24 +2501,24 @@ Info (170193): Fitter routing operations beginning
 Info (170195): Router estimated average interconnect usage is 0% of the available device resources
     Info (170196): Router estimated peak interconnect usage is 1% of the available device resources in the region that extends from location X57_Y0 to location X68_Y11
 Info (170194): Fitter routing operations ending: elapsed time is 00:00:01
-Info (11888): Total time spent on timing analysis during the Fitter is 0.40 seconds.
+Info (11888): Total time spent on timing analysis during the Fitter is 0.48 seconds.
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
 Info (334003): Started post-fitting delay annotation
 Info (334004): Delay annotation completed successfully
-Info (11801): Fitter post-fit operations ending: elapsed time is 00:00:03
+Info (11801): Fitter post-fit operations ending: elapsed time is 00:00:04
 Warning (171167): Found invalid Fitter assignments. See the Ignored Assignments panel in the Fitter Compilation Report for more information.
-Info (144001): Generated suppressed messages file /media/work/Projects/Altera/CycloneV_16BitBlockRomExample/output_files/CycloneV_16BitBlockRomExample.fit.smsg
+Info (144001): Generated suppressed messages file /media/work/GitHub/CycloneV_16BitBlockRomExample/output_files/CycloneV_16BitBlockRomExample.fit.smsg
 Info: Quartus Prime Fitter was successful. 0 errors, 307 warnings
-    Info: Peak virtual memory: 3212 megabytes
-    Info: Processing ended: Sun Sep 23 14:42:37 2018
-    Info: Elapsed time: 00:00:19
-    Info: Total CPU time (on all processors): 00:00:54
+    Info: Peak virtual memory: 3245 megabytes
+    Info: Processing ended: Mon Sep 24 00:54:14 2018
+    Info: Elapsed time: 00:00:20
+    Info: Total CPU time (on all processors): 00:01:06
 
 
 +----------------------------+
 ; Fitter Suppressed Messages ;
 +----------------------------+
-The suppressed messages can be found in /media/work/Projects/Altera/CycloneV_16BitBlockRomExample/output_files/CycloneV_16BitBlockRomExample.fit.smsg.
+The suppressed messages can be found in /media/work/GitHub/CycloneV_16BitBlockRomExample/output_files/CycloneV_16BitBlockRomExample.fit.smsg.
 
 

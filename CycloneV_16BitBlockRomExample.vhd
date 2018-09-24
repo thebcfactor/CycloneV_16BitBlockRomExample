@@ -1,6 +1,9 @@
 ---------------------------------------------------------
 --	"Cyclone V Block 16-Bit ROM Example"
 --
+--	By:  Brian Christian
+--	Date:  September 23, 2018
+--
 --	Description:
 --		Simple 16-bit interface to the Block ROM memory
 --		inside a Cyclone V device.
